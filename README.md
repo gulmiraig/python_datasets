@@ -1,2 +1,1 @@
-# Various python_exercises using numpy, pandas and other libraries
-
+Data analysis on different datasets
